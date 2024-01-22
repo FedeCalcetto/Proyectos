@@ -1,0 +1,54 @@
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfo.cs
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.exe
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.deps.json
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.runtimeconfig.json
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.dll
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.dll
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CopyComplete
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.dll
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\refint\ObligatorioP2.dll
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.genruntimeconfig.cache
+C:\Users\fedec\source\repos\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ref\ObligatorioP2.dll
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.exe
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.deps.json
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.runtimeconfig.json
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.dll
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.dll
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.AssemblyReference.cache
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfo.cs
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CopyComplete
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.dll
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\refint\ObligatorioP2.dll
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.genruntimeconfig.cache
+C:\Users\fedec\Downloads\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ref\ObligatorioP2.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.exe
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.deps.json
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.runtimeconfig.json
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.csproj.CopyComplete
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\refint\ObligatorioP2.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.pdb
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ObligatorioP2.genruntimeconfig.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\ObligatorioP2\obj\Debug\net7.0\ref\ObligatorioP2.dll

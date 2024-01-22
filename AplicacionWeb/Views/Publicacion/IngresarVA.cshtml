@@ -1,0 +1,48 @@
+﻿@using Dominio;
+@model List<Publicacion>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Filtre una publicacion por su VA y un texto</h1>
+<form action="/Publicacion/IngresarVA" method="get">
+
+    <div class="form-group">
+        <label for="valorIngresado">VA</label>
+        <input type="number" class="form-control" id="valorIngresado" name="valorIngresado" >
+    </div>
+    
+     <div class="form-group">
+        <label for="textoIngresado">Texto</label>
+        <input type="text" class="form-control" id="TextoIngresado" name="texto" >
+    </div> 
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Ver</button>
+    </div>
+</form>
+@if(Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Autor</th>
+                <th>Texto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Publicacion p in Model)
+            {
+
+                int valorIngresado = Convert.ToInt32(Context.Request.Query["valorIngresado"]);
+                if (valorIngresado < p.CalcularValorApreciacion())
+                {
+                    <tr>
+                        <td>@p.Autor.Nombre</td>
+                        <td>@p.Texto</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}

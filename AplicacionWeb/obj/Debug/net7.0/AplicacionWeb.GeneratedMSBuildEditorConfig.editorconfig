@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AplicacionWeb
+build_property.RootNamespace = AplicacionWeb
+build_property.ProjectDir = C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\AplicacionWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\AplicacionWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Admin/BanearElPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmFuZWFyRWxQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Admin/Bloquear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvcXVlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Admin/Listas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Alta/Formulario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0YVxGb3JtdWxhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Error/MostrarError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcTW9zdHJhckVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Post/FormularioComentario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxGb3JtdWxhcmlvQ29tZW50YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Publicacion/IngresarVA.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYWNpb25cSW5ncmVzYXJWQS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/FormularioPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xGb3JtdWxhcmlvUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/Ingresar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmdyZXNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/IngresarInvitacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmdyZXNhckludml0YWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/Invitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbnZpdGFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/MostrarInvitacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb3N0cmFySW52aXRhY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Usuario/MostrarPublicaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb3N0cmFyUHVibGljYWNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lauta/Desktop/Nueva carpeta (4)/ObligatorioP2/AplicacionWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7yn3z5cvod

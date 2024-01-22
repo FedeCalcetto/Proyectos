@@ -1,0 +1,33 @@
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\source\repos\ObligatorioP2\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\fedec\Downloads\ObligatorioP2\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\lauta\Desktop\Nueva carpeta (4)\ObligatorioP2\Dominio\obj\Debug\net7.0\ref\Dominio.dll

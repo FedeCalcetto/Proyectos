@@ -1,0 +1,46 @@
+﻿@using Dominio;
+@model List<Post>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Publicaciones</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Foto</th>
+            <th>Descripcion</th>
+            <th>Comentarios</th>
+            <th>Comentar</th>
+            <th>Likes</th>
+            <th>Dar Like</th>
+            <th>DisLikes</th>
+            <th>Dar DisLike</th>
+            <th>VA</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Publicacion p in Model)
+        {
+            if (p is Post post)
+            {
+                <tr>
+                    <td>@post.Titulo</td>
+                    <td>@post.NombreImagen</td>
+                    <td>@post.Texto</td>
+                    <td>@post.comentarios</td>
+                    <td>@Html.ActionLink("Comentar", "FormularioComentario", "Post", new { IdPost=post.IdPost},new { @class = "btn btn-primary" } )</td>
+                    <td>@post.Like</td>
+                    <td>@Html.ActionLink("NT", "NT", "NT", new { IdPost=post.IdPost},new { @class = "btn btn-primary" } )</td>
+                    <td>@post.DisLikes</td>
+                    <td>@Html.ActionLink("NT", "NT", "NT", new { IdPost=post.IdPost},new { @class = "btn btn-primary" } )</td>
+                    <td>@post.CalcularValorApreciacion()</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

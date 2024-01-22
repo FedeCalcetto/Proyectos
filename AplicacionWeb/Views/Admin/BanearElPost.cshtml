@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Banee un post</h1>
+
+<form action="/Admin/PostBaneado" method="post">
+    <div class="mb-3">
+        <label for="IdDelPost" class="form-label">Id del post</label>
+        <input type="text" class="form-control" id="IdDelPost" name="IdPost">
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Banear</button>
+    </div>
+</form>
+@if (TempData["error"] != null)
+{
+    bool ok = (bool)TempData["error"]; 
+
+    if (!ok)
+    {
+        <div class="alert alert-success" role="alert">
+            Post baneado correctamente
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["MensajeError"]
+        </div>
+    }
+}

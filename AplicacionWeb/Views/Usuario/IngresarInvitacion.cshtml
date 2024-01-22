@@ -1,0 +1,49 @@
+﻿@using Dominio;
+@model List<Usuario>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Enviar invitacion</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Usuario usuario in Model)
+        {
+            if (usuario is Miembro miembro)
+            {
+                <tr>
+                    <td>@miembro.Nombre</td>
+                    <td>@miembro.Apellido</td>
+                    <td>
+                      
+                        
+                        <a href="/Invitacion/EnviarInvitaciones?emailSolicitado=@miembro.Email">Enviar</a> 
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+@if (TempData["error"] != null)
+{
+    if (!(bool)TempData["error"])
+    {
+        <div class="alert alert-success" role="alert">
+            Invitacion enviada
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["mensajeError"]
+        </div>
+    }
+}
+

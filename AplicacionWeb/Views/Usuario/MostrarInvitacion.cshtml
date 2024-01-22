@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Dominio
+@model Invitacion
+
+@if (Model != null)
+{
+    <div class="mb-3">
+        <label for="id" class="form-label">Id</label>
+        <input type="text" class="form-control" id="id" value=@Model.IdInvitacion disabled>
+        </div>
+    <div class="mb-3">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" value=@Model.Solicitante.Nombre disabled>
+    </div>
+    <div class="mb-3">
+         <label class="form-label" for="descripcion">Apellido</label>
+         <input type="text" class="form-control" id="apellido" value=@Model.Solicitante.Apellido disabled>
+    </div>
+    @if (Model.EstadoInvitacion == "PENDIENTE_APROBACION")
+    {
+        <div class="mb-3">
+            @Html.ActionLink("Aceptar", "CambiarDeEstado", "Invitacion", new { IdInvitacion = Model.IdInvitacion, estado="aceptada"}, new {@class = "btn btn-primary"})
+        </div>
+    }
+    else
+    {
+        <div class="mb-3">
+            @Html.ActionLink("Rechazar", "CambiarDeEstado", "Invitacion", new { IdInvitacion = Model.IdInvitacion, estado="rechazada"}, new {@class = "btn btn-primary"})
+        </div>
+    }
+}
+else
+{
+    @if (ViewBag.MensajeError != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.MensajeError
+        </div>
+    }
+}
+}

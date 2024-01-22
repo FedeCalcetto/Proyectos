@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Formulario";
+}
+
+<h1>Formulario</h1>
+
+<form action="/Alta/DarDeAlta" method="post">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" name="Email">
+        
+    </div
+    <div class="form-group">
+        <label for="exampleInputPassword1">Contraseña</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" name="Contrasena">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputName">Nombre</label>
+        <input type="text" class="form-control" id="exampleInputName" name="Nombre">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputLastName">Last Name</label>
+        <input type="text" class="form-control" id="exampleInputLastName" name="Apellido">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputDOB">Fecha de nacimiento</label>
+        <input type="date" class="form-control" id="exampleInputDOB" name="FechaNacimiento">
+    </div>
+    <button type="submit" class="btn btn-primary">Confirmar</button>
+</form>
+
+@if(TempData["error"] != null)
+{
+    if (!(bool)TempData["error"])
+    {
+        <div class="alert alert-success" role="alert">
+                Usuario dado de alta correctamente
+        </div>
+    } else
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["mensajeError"]
+        </div>
+    }
+
+}
